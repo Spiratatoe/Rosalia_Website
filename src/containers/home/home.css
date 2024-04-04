@@ -1,0 +1,56 @@
+.display_css{
+    width: 100%;
+}
+
+.display_container{
+    display: flex;
+    justify-content: center;
+}
+
+*{
+    background-color: rgba(254,252,251,255);
+}
+
+h1{
+    color: #11517c;
+    text-align: center;
+    padding-top: 50px;
+    font-family: Playfair Display;
+    margin-bottom: 50px;
+}
+
+h2{
+    color: #11517c;
+    text-align: center;
+    font-family: Playfair Display;
+}
+
+p{
+    text-align: center;
+    font-family: Muli;
+}
+
+
+
+.map_container{
+    width: 55%;
+    margin-right: 5%;
+}
+
+.location_container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.location_text{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.specific_text{
+
+
+}
