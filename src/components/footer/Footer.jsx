@@ -1,13 +1,11 @@
-import React, { useState } from 'react'
+import React from 'react'
 import './footer.css'
-import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faEnvelope, faPhone} from "@fortawesome/free-solid-svg-icons";
 import {useTranslation} from "react-i18next";
 
 
 const Footer = () => {
 
-    const [t, i18n] = useTranslation("global");
+    const [t] = useTranslation("global");
 
     return (
         <div>

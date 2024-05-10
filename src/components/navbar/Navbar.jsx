@@ -1,11 +1,8 @@
-import React, { useState } from 'react'
-// import { RiMenu3Line, RiCloseLin, RiCloseLine } from 'react-icons/ri' //icons??
+import React from 'react'
 import './navbar.css'
-import logo from '../../assets/Rosalia_logo.png'
-import {Link, useMatch, useNavigate, useResolvedPath} from "react-router-dom"
-import * as i18n from "i18next";
+import {Link, useMatch, useResolvedPath} from "react-router-dom"
 import {useTranslation} from "react-i18next";
-import {faGlobe, faLanguage} from "@fortawesome/free-solid-svg-icons";
+import {faGlobe} from "@fortawesome/free-solid-svg-icons";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 
 
@@ -18,10 +15,10 @@ const Navbar = () => {
         i18n.changeLanguage(lang);
     };
 
-    const navigate = useNavigate();
-    const handleLogoClick = () => {
-        navigate('/');
-    }
+    //const navigate = useNavigate();
+    // const handleLogoClick = () => {
+    //     navigate('/');
+    // }
 
 
     function CustomLink( { to, children, ...props } ) {
@@ -48,8 +45,8 @@ const Navbar = () => {
                     <CustomLink to="/plans" >{t("navbar.option_3")}</CustomLink>
                     <CustomLink to="/contact" >{t("navbar.option_4")}</CustomLink>
                     <p className='title_not_link'><FontAwesomeIcon icon={faGlobe} /></p>
-                    <a onClick={() => handleChangeLanguage("fr")}> FR </a>
-                    <a onClick={() => handleChangeLanguage("en")}> ENG </a>
+                    <button className='language_button' onClick={() => handleChangeLanguage("fr")}> FR </button>
+                    <button className='language_button' onClick={() => handleChangeLanguage("en")}> ENG </button>
                 </div>
 
             </div>

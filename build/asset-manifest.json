@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d79b20a7.css",
-    "main.js": "/static/js/main.7e97cc5a.js",
+    "main.css": "/static/css/main.7e75107a.css",
+    "main.js": "/static/js/main.5c20ead3.js",
     "static/js/453.520e1735.chunk.js": "/static/js/453.520e1735.chunk.js",
     "static/media/Building_image.png": "/static/media/Building_image.969e061dc7f25f3bfb29.png",
     "static/media/layout.png": "/static/media/layout.6b551cda17831da23fbd.png",
@@ -11,7 +11,6 @@
     "static/media/plans_v_10.png": "/static/media/plans_v_10.763bbe4f36e61b12fe81.png",
     "static/media/plans_v_9.png": "/static/media/plans_v_9.dbfd47981dbe53d36cdc.png",
     "static/media/plans_v_4.png": "/static/media/plans_v_4.19726eee3a1339b6c190.png",
-    "static/media/Rosalia_logo.png": "/static/media/Rosalia_logo.d029af0b1a49e5b5e500.png",
     "static/media/varennes_city.jpeg": "/static/media/varennes_city.590886ceb09234dd7a0c.jpeg",
     "static/media/plans_v_6.png": "/static/media/plans_v_6.bb1273ced0875812a746.png",
     "static/media/plans_v_5.png": "/static/media/plans_v_5.c8b56a7852b33041d134.png",
@@ -20,19 +19,18 @@
     "static/media/plans_v_1.png": "/static/media/plans_v_1.45ea11ec78087652ff5c.png",
     "static/media/plans_v_3.png": "/static/media/plans_v_3.4f7fed41335abe7eef9a.png",
     "static/media/eco.svg": "/static/media/eco.d9e38f2070fd0125ca1c029ad54e8e62.svg",
-    "static/media/outdoors.svg": "/static/media/outdoors.d7d004933f985a1f7e9f2c96adee38b5.svg",
     "static/media/appliances.svg": "/static/media/appliances.b223b1e5f0357e7875f8dfcd3b60ede4.svg",
     "static/media/contact.svg": "/static/media/contact.76ae9b3f06cc29df1d2739bdf92f58e4.svg",
     "static/media/plans_v_b.png": "/static/media/plans_v_b.8b6bf341c9d13908aad6.png",
     "static/media/plans_v_a.png": "/static/media/plans_v_a.c0dc9b0637aacd0b346e.png",
     "static/media/bubbles.svg": "/static/media/bubbles.7dd988f46f69ad39f84b1633a0d59ffa.svg",
     "index.html": "/index.html",
-    "main.d79b20a7.css.map": "/static/css/main.d79b20a7.css.map",
-    "main.7e97cc5a.js.map": "/static/js/main.7e97cc5a.js.map",
+    "main.7e75107a.css.map": "/static/css/main.7e75107a.css.map",
+    "main.5c20ead3.js.map": "/static/js/main.5c20ead3.js.map",
     "453.520e1735.chunk.js.map": "/static/js/453.520e1735.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d79b20a7.css",
-    "static/js/main.7e97cc5a.js"
+    "static/css/main.7e75107a.css",
+    "static/js/main.5c20ead3.js"
   ]
 }

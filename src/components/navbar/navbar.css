@@ -69,3 +69,17 @@ a:hover{
     text-decoration: underline;
     text-underline-offset: 5px;
 }
+
+.language_button{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    font-size: 1.2rem;
+    background-color: #09253b;
+    border: none;
+    padding: 2px;
+}
+
+.language_button:hover{
+    cursor: pointer;
+}

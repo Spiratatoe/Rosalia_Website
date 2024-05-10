@@ -7,7 +7,7 @@ import {useTranslation} from "react-i18next";
 
 const Contact = () => {
 
-    const [t, i18n] = useTranslation("global");
+    const [t] = useTranslation("global");
 
     return (
         <div >

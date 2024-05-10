@@ -5,13 +5,12 @@ import layout from "../../assets/layout.png";
 import eco from "../../assets/eco.svg";
 import transport from "../../assets/transport.svg";
 import appliances from "../../assets/appliances.svg";
-import outdoors from "../../assets/outdoors.svg";
 import {useTranslation} from "react-i18next";
 
 
 const Project = () => {
 
-    const [t, i18n] = useTranslation("global");
+    const [t] = useTranslation("global");
 
 
     return (
