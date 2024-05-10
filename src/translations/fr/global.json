@@ -1,0 +1,49 @@
+{
+  "header" : {
+    "message" : "Bienvenue sur mon site"
+  },
+  "home" : {
+    "title_1": "Découvrez votre prochain chez-vous",
+    "body_1": "Avec son architecture élégante et ses équipements modernes, chaque appartement à Rosalia est un sanctuaire tranquille, promettant aux résidents un mode de vie confortable et sophistiqué. Que vous appréciiez la vue panoramique depuis votre fenêtre ou que vous découvriez le charme de Varennes, Rosalia offre le cadre parfait pour une vie épanouie. Bienvenue chez vous.",
+    "title_2": "SAISISSEZ L'OPPORTUNITÉ",
+    "body_2" : "À Varennes, des espaces de vie extraordinaires vous attendent. Saisissez cette chance de vous immerger dans notre communauté dynamique et de découvrir l'essence de la vie raffinée de première main.",
+    "title_3" : "Contactez-nous"
+  },
+  "navbar" : {
+    "option_1" : "Accueil",
+    "option_2" : "Info",
+    "option_3" : "Plan",
+    "option_4" : "Contact"
+  },
+  "info" : {
+    "header" : "INFO",
+    "section1_p1" : "APPARTEMENTS DE LUXE DE STYLE CONDO",
+    "section1_p2" : "2 ESPACES COMMERCIAUX",
+    "section1_p3" : "1350 PI² & 1850 PI²",
+    "section2_p1" : "INCLUS",
+    "section2_p2" : "Eau chaude",
+    "section2_p3" : "5 appareils Energy Star",
+    "section2_p4" : "Internet haut débit Videotron",
+    "section2_p5" : "Télévision de base Videotron",
+    "section2_p6" : "Ascenseur",
+    "section3_p1" : "TRANSPORT",
+    "section3_p2" : "3 bornes de recharge pour véhicules électriques disponibles",
+    "section3_p3" : "Places de stationnement souterraines/extérieures",
+    "section3_p4" : "Proche des transports en commun vers le métro Longueuil",
+    "section4_p1" : "40% PLUS ÉCO-EFFICACE QUE LE CODE DU BÂTIMENT CANADIEN"
+  },
+  "plans" : {
+    "header_1": "PLANS",
+    "header_2": "COMMERCIAL",
+    "word": "Commercial"
+  },
+  "contact" : {
+    "title_1" : "CONTACTEZ-NOUS"
+  },
+  "footer" : {
+    "title_1" : "Contactez-nous",
+    "title_2" : "Trouvez-nous",
+    "title_3" : "Images vectorielles",
+    "body_3" : "Conçu par"
+  }
+}

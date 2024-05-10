@@ -1,0 +1,49 @@
+{
+  "header" : {
+    "message" : "welcome to my site "
+  },
+  "home" : {
+    "title_1": "Discover your next home",
+    "body_1": "With its elegant architecture and modern amenities, each apartment at Rosalia is a tranquil sanctuary, promising residents a lifestyle of comfort and sophistication. Whether you're enjoying the scenic views from your window or exploring the charm of Varennes, Rosalia provides the perfect backdrop for a life well-lived. Welcome to your new home.",
+    "title_2": "SEIZE THE OPPORTUNITY",
+    "body_2" : "In Varennes, extraordinary living spaces await. Seize this chance to immerse yourself in our vibrant community and experience the essence of refined living firsthand.",
+    "title_3" : "Contact Us"
+  },
+  "navbar" : {
+    "option_1" : "Home",
+    "option_2" : "Info",
+    "option_3" : "Plans",
+    "option_4" : "Contact"
+  },
+  "info" : {
+    "header" : "INFO",
+    "section1_p1" : "LUXURY APARTMENTS CONDO STYLE",
+    "section1_p2" : "2 COMMERCIAL SPACES",
+    "section1_p3" : "1350 SF & 1850 SF",
+    "section2_p1" : "INCLUDED",
+    "section2_p2" : "Hot Water",
+    "section2_p3" : "5 Energy Star appliances",
+    "section2_p4" : "High-Speed Videotron Internet",
+    "section2_p5" : "Videotron basic Television",
+    "section2_p6" : "Elevator",
+    "section3_p1" : "TRANSPORT",
+    "section3_p2" : "3 electric vehicle chargers available",
+    "section3_p3" : "Underground/Outdoor Parking Spaces",
+    "section3_p4" : "Near Public Transport to Longueuil Metro",
+    "section4_p1" : "40% MORE ECO EFFICIENT THAN CANADIAN BUILDING CODE"
+  },
+  "plans" : {
+    "header_1": "PLANS",
+    "header_2": "COMMERCIAL",
+    "word": "Commercial"
+  },
+  "contact" : {
+    "title_1" : "CONTACT US"
+  },
+  "footer" : {
+    "title_1" : "Get in Touch",
+    "title_2" : "Find Us",
+    "title_3" : "Vector Images",
+    "body_3" : "Designed by"
+  }
+}

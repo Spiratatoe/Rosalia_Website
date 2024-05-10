@@ -3,11 +3,16 @@
   background-color: white;
 }
 
-body {
-  border: 10px solid #fafafa;
+/*body {*/
+/*  border: 10px solid white;*/
+/*}*/
+
+.flex-wrapper {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: space-between;
 }
-
-
 
 
 

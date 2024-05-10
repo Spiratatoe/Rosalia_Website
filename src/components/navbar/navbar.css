@@ -8,14 +8,28 @@
     align-items: center;
     margin-right: 2rem;
 
-    font-family: Muli;
+    font-family: Montserrat, sans-serif;
     font-weight: 500;
+    font-size: 1.2rem;
+
+    background: #09253b;
+
 
 }
 
 .logo_css{
     height: 75px;
     width: 225px;
+}
+
+.logo_text{
+    margin-left: 20px;
+    font-weight: 800;
+    font-size: 2.8rem;
+    font-family: Montserrat;
+    background: #09253b;
+    color: white;
+    font-style: italic;
 }
 
 .logo_css:hover{
@@ -32,14 +46,26 @@
     padding: 0.5rem 1rem;
     gap: 10px;
 
-    background: rgba(254,252,251,255);
+    background: #09253b;
 }
 
 a{
     text-decoration: none;
-    color: black;
+    color: white;
+}
+
+.title_not_link{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+a:hover{
+    cursor: pointer;
 }
 
 .active{
-    color: rgba(0,83,159,255);
+    color: #ffffff;
+    text-decoration: underline;
+    text-underline-offset: 5px;
 }
